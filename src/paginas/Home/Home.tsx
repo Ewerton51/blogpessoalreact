@@ -1,4 +1,3 @@
-
 import homeLogo from '../../assets/paisagem.jpg'
 import './Home.css';
 import ListaPostagens from '../../components/postagens/listaPostagens/ListaPostagens';
