@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "seu-comando-de-build --ignore-errors",
+    "postinstall": "seu-comando-de-deploy --ignore-errors"
+  }
+}
